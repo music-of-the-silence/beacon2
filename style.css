@@ -13,7 +13,7 @@ html body {
 }
 body {
     min-height: 125vh;
-    background: url(pexels-david-peterson-7083683.jpg) no-repeat;
+    background: url(/pexels-david-peterson-7083683.jpg) no-repeat;
     background-size: cover;
     background-position: bottom;
 }
