@@ -116,7 +116,7 @@ body {
     margin-bottom: 20px;
     color: transparent;
     -webkit-text-stroke: 1px #ffffff;
-    background: url(/back.png);
+    background-image: url(back.png);
     -webkit-background-clip: text;
     background-position: 5 5;
     animation: back 20s linear infinite;
